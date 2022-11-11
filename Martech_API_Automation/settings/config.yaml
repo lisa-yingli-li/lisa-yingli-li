@@ -1,0 +1,18 @@
+MobileService:
+  SANDBOX: "https://mobileapi.{}-sandbox.afterpay.com"
+
+MobileProxyService:
+  SANDBOX: "https://mobile-api-proxy-staging.afterpay.com"
+
+PromoV2Service:
+  QA: "https://promotion.marketing.{0}.platform.afterpay-beta.com"
+  SANDBOX: "https://promotion.marketing.{0}.platform.afterpay-beta.com"
+
+InboxService:
+  SANDBOX: "https://inbox-message.marketing.us.platform.afterpay-beta.com"
+
+BillingService:
+  SANDBOX: "https://ads-billing.marketing.us.platform.afterpay-beta.com"
+
+
+

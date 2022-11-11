@@ -1,0 +1,8 @@
+# Requirements for Python 3.9
+ptest
+requests
+pocoui
+airtest
+PyHamcrest
+PyYaml
+kafka-python
