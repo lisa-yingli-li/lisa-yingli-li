@@ -5,10 +5,8 @@ import datetime
 from hamcrest import *
 from ptest.decorator import TestClass, Test, BeforeClass
 
-from Martech_API_Automation.api_business.Growth.InboxService import InboxService
 from Martech_API_Automation.settings import env_key
 from Martech_API_Automation.test_data.AccountData import Account
-from Martech_API_Automation.test_data.CRMData import MESSAGE_TYPE_LIST, CTA_Type, Inbox_Message_Template
 
 
 @TestClass()
